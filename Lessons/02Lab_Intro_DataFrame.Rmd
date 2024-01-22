@@ -3,6 +3,8 @@ title: "Intro to Data Frames in R"
 subtitle: "Environmental Data Analytics"
 author: "Luana Lima"
 output: pdf_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 ```{r setup, include=FALSE}
@@ -58,6 +60,7 @@ How could you make it a data frame?
 df_car_speed <- as.data.frame(car_speed)
 df_car_speed
 class(df_car_speed)
+
 ```
 
 ## Adding columns to a data frame
