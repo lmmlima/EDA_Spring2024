@@ -51,6 +51,7 @@ rsconnect/
 # Rproject files
 *.Rproj
 *_KEY.Rmd
+*_KEY.pdf
 *_TOPOST/
 *_TODELETE.Rmd
 
